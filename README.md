@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Text+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Geany Free Installer** — Geany is a free, lightweight text editor and IDE for Windows, macOS, and Linux using GTK. Works without internet access, no account required. Full offline installation.
+**💻 Geany Free Installer** — Geany is a lightweight, fast, open-source text editor and basic IDE for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -30,16 +30,16 @@
 
 ## 📖 About Geany
 
-Geany is a free, lightweight text editor and IDE for Windows, macOS, and Linux using GTK. It provides syntax highlighting for 50+ languages, code completion, build system integration, plugin support, and a project manager — offering IDE features without heavy resource use.
+Geany is a lightweight, fast, open-source text editor and basic IDE for Windows, macOS, and Linux. Built on GTK, Geany supports syntax highlighting for 50+ languages, code navigation, auto-completion, build system integration, and a plugin system. Its small resource footprint and fast startup make it an excellent choice for older hardware or developers who want a capable editor without heavyweight dependencies.
 
 ---
 
 ## ❌ Problem: Geany is hard to access
 
-- **GTK Interface** — Less native-feeling on Windows and macOS than on Linux
-- **Limited Advanced Features** — Missing modern IDE features like intelligent refactoring
-- **Plugin Ecosystem** — Smaller than VS Code or Eclipse
-- **Language Server Protocol** — LSP support added but less mature than VS Code integration
+- **UI Design** — Interface appears dated compared to modern editors
+- **Plugin Quality** — Community plugin quality and maintenance varies significantly
+- **Advanced IDE Features** — Less powerful for complex refactoring than full IDEs
+- **Windows GTK** — Windows version carries GTK dependency overhead
 
 ---
 
@@ -121,7 +121,7 @@ Geany is a free, lightweight text editor and IDE for Windows, macOS, and Linux u
 
 ---
 
-**Geany Free Installer** — Geany is a free, lightweight text editor and IDE for Windows, macOS, and Linux using GTK. Install without internet connection today!
+**Geany Free Installer** — Geany is a lightweight, fast, open-source text editor and basic IDE for Windows, macOS, and Linux. Install without internet connection today!
 
 <div align="center">
 
